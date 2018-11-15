@@ -1,4 +1,4 @@
-# Katalogo 
+# Katalogo  [![Build status](https://visuasoft.visualstudio.com/Katalogo/_apis/build/status/Katalogo-CI)](https://visuasoft.visualstudio.com/Katalogo/_build/latest?definitionId=19)
 
 > Katalogo - Esperanto for Catalog  
 
@@ -7,9 +7,9 @@ This technique resembles the Registry in Structuremap and Module in Autofac.
 
 **This project was inspired by the [Scrutor Library by Kristian Hellang](https://github.com/khellang/Scrutor) Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection.** 
 
-## Installation
+## Installation 
 
-Install the [Katalogo NuGet Package](https://www.nuget.org/packages/Katalogo).
+Install the [Katalogo NuGet Package](https://www.nuget.org/packages/Katalogo). ![Nuget](https://visuasoft.vsrm.visualstudio.com/_apis/public/Release/badge/69cf96b0-9d30-43a0-b25c-220436a53866/1/1)
 
 ### Package Manager Console
 
