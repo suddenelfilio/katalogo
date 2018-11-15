@@ -1,4 +1,4 @@
-# Katalogo  [![Build status](https://visuasoft.visualstudio.com/Katalogo/_apis/build/status/Katalogo-CI)](https://visuasoft.visualstudio.com/Katalogo/_build/latest?definitionId=19)
+# Katalogo  ![Build status](https://visuasoft.visualstudio.com/Katalogo/_apis/build/status/Katalogo-CI)
 
 > Katalogo - Esperanto for Catalog  
 
