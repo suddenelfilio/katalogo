@@ -17,6 +17,7 @@
     <AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
     <AssemblyOriginatorKeyFile>katalog-signing.pfx</AssemblyOriginatorKeyFile>
     <SignAssembly>false</SignAssembly>
+    <Version>1.0.1</Version>
   </PropertyGroup>
  
   <ItemGroup>

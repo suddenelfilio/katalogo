@@ -34,14 +34,4 @@ namespace Katalogo
 
 
     }
-
-    public class Catalog
-    {
-        public IServiceCollection Services { get; }
-
-        public Catalog(IServiceCollection services)
-        {
-            Services = services;
-        }
-    }
 }
