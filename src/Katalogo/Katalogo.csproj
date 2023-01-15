@@ -9,7 +9,7 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PackageTags>Dependency;Injection;DI;Scanning;Conventions;Decoration</PackageTags>
     <PackageProjectUrl>https://github.com/suddenelfilio/Katalogo</PackageProjectUrl>
-    <PackageLicenseUrl>https://raw.githubusercontent.com/suddenelfilio/Katalogo/master/LICENSE</PackageLicenseUrl>
+    <PackageLicense>https://raw.githubusercontent.com/suddenelfilio/Katalogo/master/LICENSE</PackageLicense>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/suddenelfilio/Katalogo</RepositoryUrl>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
